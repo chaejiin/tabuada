@@ -1,0 +1,29 @@
+Tabuada
+Pedir o nome do usuário e pedir qual a tabuada
+e o final Querido usuário XXX a tabuada do XX é:
+Exemplo se for 2
+
+Template da tabuada
+2 x 1 = 2
+2 x 2 = 4
+2 x 3 = 6
+2 x 4 = 8
+2 x 5 = 10
+2 x 6 = 12
+2 x 7 = 14
+2 x 8 = 16
+2 x 9 = 18
+2 x 10 = 20
+
+Criar variáveis - tabuada, contador (iterator), resultado
+Atribuir o Valor 0 ao contador
+Escrever "Qual tabuada você deseja resolver?"
+Ler tabuada
+
+Repetir \\colocar em estrutura de repetição\\   
+Multiplicar tabuada pelo contador
+Guardar o resultado da operação em resultado
+Escrever tabuada & " X " & contador & " = " & resultado
+Atribuir uma unidade ao contador
+até contador=10 
+
